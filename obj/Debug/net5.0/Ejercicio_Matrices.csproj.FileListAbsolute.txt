@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\ref\Ejercicio_Matrices.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\bin\Debug\net5.0\Ejercicio_Matrices.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\ref\Ejercicio_Matrices.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Matrices\obj\Debug\net5.0\Ejercicio_Matrices.genruntimeconfig.cache
